@@ -6,7 +6,7 @@ Organizing and publishing list of government sites in one collection
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 
 ### Contributing
-* Please open a [PR](https://guides.github.com/activities/forking/) for companies to be added
+* Please open a [PR](https://guides.github.com/activities/forking/) for list of government sites to be added
 * Use the format below
 
 ### Format
