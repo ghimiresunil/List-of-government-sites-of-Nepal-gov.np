@@ -976,3 +976,8 @@ If you cannot provide a valid website for your government site your PR will not 
 15. http://wrpo.nepalpolice.gov.np	
 16. http://wupap.gov.np	
 17. http://www.dcsi.gov.np/
+
+# Y - #
+
+1. http://ysef.gov.np	
+2. http://ysefbeema.gov.np
