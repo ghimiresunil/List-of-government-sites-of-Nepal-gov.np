@@ -956,3 +956,23 @@ If you cannot provide a valid website for your government site your PR will not 
 73. http://unptc.apf.gov.np	
 74. http://urlabarimun.gov.np	
 75. http://urlabarimun.gov.np/	
+
+# V - X
+
+1. http://verify.soce.gov.np	
+2. http://volunteer.gov.np	
+3. http://vpn.gov.np	
+4. http://vyasmun.gov.np	
+5. http://vyasmun.gov.np/	
+6. http://walingmun.gov.np/	
+7. http://wbrs.gov.np	
+8. http://web.ird.gov.np	
+9. http://webcpanel2.nitc.gov.np	
+10. http://webcpanel3.nitc.gov.np	
+11. http://webservice.ird.gov.np	
+12. http://wrao.moha.gov.np/	
+13. http://wred.gov.np	
+14. http://wrfd.gov.np	
+15. http://wrpo.nepalpolice.gov.np	
+16. http://wupap.gov.np	
+17. http://www.dcsi.gov.np/
