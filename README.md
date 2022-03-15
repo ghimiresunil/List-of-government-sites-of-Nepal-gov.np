@@ -690,7 +690,7 @@ If you cannot provide a valid website for your government site your PR will not 
 84. http://lpc.gov.np	
 85. http://lumbinidevtrust.gov.np	
 
-# M - 0
+# M - O
 
 1. http://maddimun.gov.np/	
 2. http://madhyabindumun.gov.np/	
